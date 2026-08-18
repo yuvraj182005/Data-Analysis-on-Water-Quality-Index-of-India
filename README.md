@@ -65,12 +65,6 @@ Open `Mini project.pbix` in [Power BI Desktop](https://powerbi.microsoft.com/des
 
 > ⚠️ The notebook currently reads from a hardcoded local path (`C:\Users\yuvra\...`). Update this to a relative `data/` path before sharing — see suggestions below.
 
-## 🗺️ Ideas to strengthen this project
-
-- [ ] Move the source dataset into the repo (e.g. `data/water_quality_data.xlsx`) and use a relative path instead of a hardcoded local one
-- [ ] Add a `requirements.txt`
-- [ ] Export a few key chart images into the README so recruiters see results without running the notebook
-- [ ] Add a short markdown summary of findings at the top of the notebook or in this README (done above — expand with more stats if you'd like)
 
 
 
